@@ -1,81 +1,52 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=90&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:7FFFD4&height=120&section=header&fontColor=ffffff&text=Hi,+I'm+Abhinav!&fontSize=40&fontAlignY=35" alt="Header Image">
 </p>
 
-<h1 align="center">
-  Hi, I'm Abhinav Mohan Kamboj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h3 align="center">👨‍💻 Software Developer | 🚀 Tech Enthusiast</h3>
+
+---
+
+## 👋 About Me
+
+Hi there! I'm **Abhinav**, a passionate **full-stack developer** dedicated to crafting scalable and efficient software solutions. I love exploring new technologies and thrive on turning creative ideas into reality through code.
+
+- 🔭 Working on **innovative cloud-based applications**  
+- 🌱 Learning **AI integrations**, **Kubernetes**, and **Next.js**  
+- 💬 Fun Fact: Debug and design with ☕ coffee and determination!
+
+---
+
+## 🛠️ Skills
 
 <p align="center">
-  <em>👨‍💻 Software Developer | 🚀 Tech Enthusiast | 🌟 Open Source Advocate</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhinavmohankamboj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,kubernetes,docker,aws,git&theme=dark" alt="Skills" />
 </p>
 
 ---
 
-## 🌟 About Me
-
-Hi there! I'm **Abhinav**, a passionate developer with experience in modern, scalable software design and building efficient cloud-powered systems. I love learning about new technologies, tackling challenging projects, and creating value through code.
-
-💡 **Mission**: Simplify life with technology  
-🎯 **Current Work**: Building scalable cloud applications  
-🌱 **Learning**: AI integrations, Kubernetes, and Microservices  
-💬 **Fun Fact**: My debugging skills get an upgrade with a ☕ in hand!  
-
----
-
-## 💼 Core Skills
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,java,cpp,django,aws,gcp,azure,kubernetes,docker,git,github,html,css,vscode&theme=light" alt="Skills"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavmohankamboj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=abhinavmohankamboj&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavmohankamboj&show_icons=true&theme=dracula&hide_border=true" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinavmohankamboj&theme=dracula&hide_border=true" height="180" alt="GitHub Streak">
+  <a href="https://linkedin.com/in/abhinavmohankamboj">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourwebsite.com">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=oculus&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhinavmohankamboj&theme=rogue&hide_border=true" alt="Activity Graph">
-</p>
-
----
-
-## 🏆 Certifications
-
-- ✅ AWS Certified Solutions Architect  
-- ✅ Docker Certified Associate  
-- ✅ Microsoft Certified Azure Developer  
-
----
-
-## 🚀 My Featured Projects
-
-- 🛠 [**WebFlow**](https://github.com/abhinavmohankamboj/webflow): A real-time collaboration tool built using **Next.js**, **Node.js**, and hosted on **AWS**.  
-- 🤖 [**ML Utility Suite**](https://github.com/abhinavmohankamboj/ml-suite): Machine learning utility library for predictive models and analytics.  
-- 🌐 [**My Portfolio Website**](https://yourwebsite.com): My personal website showcasing skills, projects, and achievements.  
-
-**🔎 Curious about more?** Check out all [my repositories here.](https://github.com/abhinavmohankamboj?tab=repositories)
-
----
-
-## 🌐 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/abhinavmohankamboj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Badge"></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:6A5ACD&height=100&section=footer&fontColor=ffffff" alt="Footer Image">
 </p>
