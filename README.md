@@ -19,7 +19,7 @@ Hi there! I'm **Abhinav**, a passionate **full-stack developer** dedicated to cr
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nextjs,kubernetes,docker,aws,git&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,nextjs,git&theme=dark" alt="Skills" />
 </p>
 
 ---
