@@ -1,34 +1,47 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:7FFFD4&height=120&section=header&fontColor=ffffff&text=Hi,+I'm+Abhinav!&fontSize=40&fontAlignY=35" alt="Header Image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:7FFFD4&height=120&section=header&fontColor=ffffff&text=Hi,+I'm+Abhinav!&fontSize=40&fontAlignY=35" />
 </p>
 
-<h3 align="center">👨‍💻 Software Developer | 🚀 Tech Enthusiast</h3>
+<h3 align="center">⚛️ Frontend Developer (React) | 💻 JavaScript Specialist</h3>
 
 ---
 
 ## 👋 About Me
 
-Hi there! I'm **Abhinav**, a passionate **full-stack developer** dedicated to crafting scalable and efficient software solutions. I love exploring new technologies and thrive on turning creative ideas into reality through code.
+Hi, I'm **Abhinav**, a **Frontend Developer with strong expertise in React**.  
+I build responsive, interactive, and user-friendly web interfaces and enjoy translating UI designs into clean, maintainable code.
 
-- 🔭 Working on **innovative cloud-based applications**  
-- 🌱 Learning **AI integrations**, **Kubernetes**, and **Next.js**  
-- 💬 Fun Fact: Debug and design with ☕ coffee and determination!
+- 🔭 Building **React-based frontend applications**
+- ⚛️ Strong in **HTML, CSS, JavaScript & React**
+- 🌱 Backend knowledge: **basic APIs, routing & server concepts**
+- 🎯 Goal: Become a **production-ready frontend engineer**
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nextjs,git&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git&theme=dark" />
 </p>
+
+### Frontend (Strong)
+✔ HTML5 & Semantic Markup  
+✔ CSS3 | Flexbox | Responsive Design  
+✔ JavaScript (ES6+, DOM, Logic)  
+✔ React (Components, Props, State, Hooks)
+
+### Backend (Basic)
+✔ REST API understanding  
+✔ Basic server-side logic  
+✔ Request / Response flow  
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavmohankamboj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=abhinavmohankamboj&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavmohankamboj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=abhinavmohankamboj&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -48,5 +61,5 @@ Hi there! I'm **Abhinav**, a passionate **full-stack developer** dedicated to cr
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:6A5ACD&height=100&section=footer&fontColor=ffffff" alt="Footer Image">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FFFD4,100:6A5ACD&height=100&section=footer" />
 </p>
