@@ -24,7 +24,7 @@ I build responsive, interactive, and user-friendly web interfaces and enjoy tran
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git&theme=dark" />
 </p>
 
-### Frontend (Strong)
+### Frontend (Good)
 ✔ HTML5 & Semantic Markup  
 ✔ CSS3 | Flexbox | Responsive Design  
 ✔ JavaScript (ES6+, DOM, Logic)  
