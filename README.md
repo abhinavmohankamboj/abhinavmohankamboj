@@ -2,17 +2,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:7FFFD4&height=120&section=header&fontColor=ffffff&text=Hi,+I'm+Abhinav!&fontSize=40&fontAlignY=35" />
 </p>
 
-<h3 align="center">⚛️ Frontend Developer (React) | 💻 JavaScript Specialist</h3>
+<h3 align="center">⚛️ Frontend Developer (React) | 💻 JavaScript knowledge</h3>
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Abhinav**, a **Frontend Developer with strong expertise in React**.  
+Hi, I'm **Abhinav**, a **Frontend Developer with good knowledge in React**.  
 I build responsive, interactive, and user-friendly web interfaces and enjoy translating UI designs into clean, maintainable code.
 
 - 🔭 Building **React-based frontend applications**
-- ⚛️ Strong in **HTML, CSS, JavaScript & React**
+- ⚛️ Good in **HTML, CSS, JavaScript & React**
 - 🌱 Backend knowledge: **basic APIs, routing & server concepts**
 - 🎯 Goal: Become a **production-ready frontend engineer**
 
